@@ -11,8 +11,8 @@ To identify key factors influencing saving behaviour and financial decision-maki
 ---
 
 ### Tools Used
-- Excel (data cleaning and analysis)  
-- Power BI (data visualization and dashboard development)  
+- Excel (data cleaning and analysis with Pivot tables)  
+
 
 ---
 
@@ -32,6 +32,20 @@ Personal finance dataset (cleaned and prepared for analysis).
 Interactive dashboard developed to visualise financial patterns and behaviour trends.
 
 ---
+
+### 💡 Business Insights
+
+- Financial planning strategies should consider income variability  
+- Expense management plays a critical role in improving savings  
+- Data-driven financial decisions can improve long-term stability
+
+---
+
+### 📚 Learning Outcomes
+
+- Improved data cleaning and transformation skills  
+- Developed interactive dashboards using Pivot Tables  
+- Gained experience in interpreting financial data
 
 ### Dashboard Preview
 ![Dashboard1](Dashboard1.png)
