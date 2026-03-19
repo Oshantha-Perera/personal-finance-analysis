@@ -34,3 +34,4 @@ Interactive dashboard developed to visualise financial patterns and behaviour tr
 ---
 
 ### Dashboard Preview
+[Dashboard1](Dashboard1.png)
