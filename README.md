@@ -33,7 +33,7 @@ Interactive dashboard developed to visualise financial patterns and behaviour tr
 
 ---
 
-### 💡 Business Insights
+### Business Insights
 
 - Financial planning strategies should consider income variability  
 - Expense management plays a critical role in improving savings  
@@ -41,7 +41,7 @@ Interactive dashboard developed to visualise financial patterns and behaviour tr
 
 ---
 
-### 📚 Learning Outcomes
+### Learning Outcomes
 
 - Improved data cleaning and transformation skills  
 - Developed interactive dashboards using Pivot Tables  
